@@ -105,5 +105,5 @@ Deleting a case originally orphaned its drafts and documents, because most refer
 
 ## Contact
 
-**Aditya Chopra** · [LinkedIn](#) · [Email](#)
+**Aditya Chopra** · [LinkedIn](https://www.linkedin.com/in/aditya-chopra-a969ba31b) · [Email](mailto:nytc120605@gmail.com)
 Happy to walk through the architecture and design decisions in detail.
